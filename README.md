@@ -97,7 +97,7 @@ G. From Miles to other Length measurements-:
      
 ---------->USING SPEED CONVERTER WE CAN CONVERT<----------
 A. From MPH-:
-     Convert from MPH to KPH	
+     Convert from MPH to KPH.	
      Convert from MPH to Knots
      Convert from MPH to Mach	
 B. From KPH-:
