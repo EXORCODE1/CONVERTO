@@ -3,7 +3,7 @@ An interactive converter created using HTML, CSS, JAVASCRIPT.
 It includes weight converter, temperature converter, lenght converter, speed converter.
 
 
-# ------->USING WEIGHT CONVERTER WE CAN CONVERT<-------
+# --->USING WEIGHT CONVERTER WE CAN CONVERT<---
 # From pounds-:
       Convert from Pounds to Kilograms
       Convert from Pounds to Ounces
@@ -31,7 +31,7 @@ It includes weight converter, temperature converter, lenght converter, speed con
      Convert from Stones to Grams
 
 
-# ------->USING TEMPERATURE CONVERTER WE CAN CONVERT<-------
+# --->USING TEMPERATURE CONVERTER WE CAN CONVERT<---
 # From Fahrenheit-: 
      Convert from Fahrenheit to Celsius	
      Convert from Fahrenheit to Kelvin	
@@ -43,7 +43,7 @@ It includes weight converter, temperature converter, lenght converter, speed con
      Convert from Kelvin to Celsius	
      
      
-# ------->USING LENGTH CONVERTER WE CAN CONVERT<-------
+# --->USING LENGTH CONVERTER WE CAN CONVERT<---
 # From Feet-:
      Convert from Feet to Meters	
      Convert from Feet to Inches
@@ -95,7 +95,7 @@ It includes weight converter, temperature converter, lenght converter, speed con
      Convert from Miles to Kilometers
      
      
-# ------->USING SPEED CONVERTER WE CAN CONVERT<-------
+# --->USING SPEED CONVERTER WE CAN CONVERT<---
 # From MPH-:
      Convert from MPH to KPH.	
      Convert from MPH to Knots
