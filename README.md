@@ -31,7 +31,7 @@ It includes weight converter, temperature converter, lenght converter, speed con
      Convert from Stones to Grams
 
 
-# --->USING TEMPERATURE CONVERTER WE CAN CONVERT<---
+# -->USING TEMPERATURE CONVERTER WE CAN CONVERT<--
 # From Fahrenheit-: 
      Convert from Fahrenheit to Celsius	
      Convert from Fahrenheit to Kelvin	
